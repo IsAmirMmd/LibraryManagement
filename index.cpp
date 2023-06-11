@@ -8,6 +8,7 @@
 using namespace std;
 int main();
 void AllBooks();
+void salam();
 void SearchBooks();
 void Calculate();
 void BorrowedBoks();
@@ -156,6 +157,8 @@ void AddBook()
         break;
     }
 }
+void salam(){};
+
 void AllBooks()
 {
     system("cls");
